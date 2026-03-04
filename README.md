@@ -1,1 +1,4 @@
-# Credit-Risk-detection-using-deepLearning
+This project demonstrates the application of a feedforward neural network to the German Credit Numeric Dataset. The network, with two hidden layers, effectively learned patterns in the data and achieved good performance in both training and validation datasets. Training and validation loss and accuracy curves confirmed stable learning, while evaluation metrics provided detailed insights into predictive performance.
+The project highlights the importance of careful preprocessing, model design, and evaluation. Normalizing features, choosing appropriate network architecture, and monitoring training progress all contributed to a successful predictive model. While further improvements could involve hyperparameter tuning, feature selection, or experimenting with deeper architectures, the current model provides a solid baseline for credit risk prediction.
+This work also demonstrates how machine learning models can assist in real-world financial decision-making, offering a quantitative method for assessing applicant risk and supporting data-driven credit approval processes.
+
